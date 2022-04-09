@@ -13,7 +13,8 @@ Apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas e MB
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheleliabedias)
 
 
-### Meu dia
+### Um pouco mais de mim
+
 👩‍💻 Trabalho atualmente na WeService
 
 🧠 Estou aprendendo Go, Python, Linux
