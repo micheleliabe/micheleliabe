@@ -10,7 +10,7 @@ Já trabalhei com testes e suporte desoftware e fui instrutor de desenvolvimento
 Apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas e MBA em Cloud Computing,  busco aprender cloud, devops e desenvolvimento de software
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/BLOG-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://micheldias.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/micheleliabedias)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheleliabedias)
 
 
 ### Meu dia
