@@ -1,35 +1,30 @@
-<h1 align="center">Hi 👋, I'm Michel Dias</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micheleliabe&label=Profile%20views&color=0e75b6&style=flat" alt="micheleliabe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micheleliabe" alt="micheleliabe" /></a> </p>
+# Olá, eu sou Michel! 👋
 
-- 🔭 I’m currently working at [WeService](https://weservice.pro/)
 
-- 🌱 I’m currently learning **Node.js, Go, Python**
+## 🚀 Sobre mim
 
-- 👨‍💻 All of my projects are available at [https://github.com/micheleliabe/](https://github.com/micheleliabe/)
+Trabalho com operações de infraestrutura de TI no data center do Itaú, passei por empresas como HP, Tivit e WeService.
+Já trabalhei com testes e suporte desoftware e fui instrutor de desenvolvimento de games, Design Gráfico e manutenção de computadores.
 
-- 📝 I regularly write articles on [https://micheldias.com/](https://micheldias.com/)
+Apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas e MBA em Cloud Computing,  busco aprender cloud, devops e desenvolvimento de software
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/BLOG-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://micheldias.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/micheleliabedias)
 
-- 💬 Ask me about **Cloud computing, AWS, software**
 
-- 📫 How to reach me **michel.eliabe.d@gmail.com**
+### Meu dia
+👩‍💻 Trabalho atualmente na WeService
 
-- 📄 Know about my experiences [https://micheldias.com/Curriculo+Michel+Dias.pdf](https://micheldias.com/Curriculo+Michel+Dias.pdf)
+🧠 Estou aprendendo Go, Python, Linux
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+💬 Me pergunte sobre Computação em nuvem, AWS etc.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michel-dias-489945a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michel-dias-489945a5/" height="30" width="40" /></a>
-<a href="https://medium.com/@michel.eliabe.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michel.eliabe.d" height="30" width="40" /></a>
-</p>
+📫 Como entrar em contato comigo, michel.eliabe.d@gmail.com ou  019 98893-0811
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+😄 Ele/dele
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micheleliabe&show_icons=true&locale=en&layout=compact" alt="micheleliabe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micheleliabe&show_icons=true&locale=en" alt="micheleliabe" /></p>
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, WordPress, AWS, Docker, Terraform, Linux
